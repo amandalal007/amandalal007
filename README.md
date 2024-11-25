@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi I'm Aman 👋
 
-<!--
+*⚡I'm a BCA student at Christ University, Banglore.*
+*⚡I'm eager to collaborate on exciting projects in the field of Infosec.*
+
+<!--  
 **amandalal123/amandalal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

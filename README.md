@@ -1,7 +1,8 @@
 ## Hi I'm Aman 👋
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3144847" style='border:none;'></iframe>
 *⚡I'm a BCA student at Christ University, Banglore.*<br>
 *⚡I'm eager to collaborate on exciting projects in the field of Infosec.*<br>
+
  <img src="https://camo.githubusercontent.com/542fee8f9a897ebb0f8df475e9201107c965a7fbfb6ba9630f8c914014a5e30e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f785469546e656a4e5153516439647165556f2f736f757263652e676966"/>
 <!--  
 **amandalal123/amandalal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

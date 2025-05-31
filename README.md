@@ -1,5 +1,5 @@
 ## Hi I'm Aman 👋
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3144847" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3144847.png)
 *⚡I'm a BCA student at Christ University, Banglore.*<br>
 *⚡I'm eager to collaborate on exciting projects in the field of Infosec.*<br>
 

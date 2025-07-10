@@ -1,5 +1,5 @@
 ## Hi I'm Aman 👋
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/your-username.png)](https://tryhackme.com/p/Demonz0923)
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Demonz0923.png" alt="Your Image Badge" />
 *⚡I'm a BCA student at Christ University, Banglore.*<br>

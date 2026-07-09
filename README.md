@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tryhackme.com/badge/amandalal" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/amandalal"><img src="thm-badge.svg" alt="TryHackMe: amandalal" /></a>
 </p>
 
 ---

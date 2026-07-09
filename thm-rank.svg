@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 40" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+  <defs>
+    <linearGradient id="r" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f8f4e"/>
+      <stop offset="1" stop-color="#2acd57"/>
+    </linearGradient>
+  </defs>
+  <rect width="280" height="40" rx="8" fill="#0d1117" stroke="#243047" stroke-width="1"/>
+  <rect x="0" y="0" width="120" height="40" rx="8" fill="#11161f"/>
+  <path d="M22 12 L32 30 L12 30 Z" fill="url(#r)"/>
+  <text x="40" y="25" fill="#2acd57" font-size="14" font-weight="bold">TryHackMe</text>
+  <text x="132" y="17" fill="#8b98ad" font-size="10">rank</text>
+  <text x="132" y="33" fill="#c9d4e3" font-size="15" font-weight="bold">RANKED OPERATOR</text>
+  <circle cx="262" cy="20" r="4" fill="#2acd57">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

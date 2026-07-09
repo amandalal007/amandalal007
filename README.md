@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.svg" alt="aman@phishguard profile" width="100%" />
+  <img src="hero.gif" alt="aman@phishguard profile" width="100%" />
 </p>
 
 <p align="center">

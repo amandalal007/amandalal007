@@ -6,23 +6,28 @@
   <a href="mailto:amandalal1937@gmail.com"><img src="https://img.shields.io/badge/EMAIL-amandalal1937@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/amandalal007"><img src="https://img.shields.io/badge/GITHUB-amandalal007-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/amandalal"><img src="https://img.shields.io/badge/TryHackMe-amandalal-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://images.weserv.nl/?url=raw.githubusercontent.com/amandalal007/amandalal007/main/thm-avatar.gif"><img src="https://images.weserv.nl/?url=raw.githubusercontent.com/amandalal007/amandalal007/main/thm-avatar.gif" alt="@amandalal THM" width="40" height="40" /></a>
   <img src="https://img.shields.io/badge/LOCATION-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20SECURITY%20ROLES-brightgreen?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://tryhackme.com/p/amandalal"><img src="https://raw.githubusercontent.com/amandalal007/amandalal007/main/thm-avatar.gif" alt="TryHackMe: amandalal" width="44" height="44" /> <b>@amandalal</b> on TryHackMe</a>
-</p>
-
 ---
 
-### `whoami`
+<div align="center">
 
 ```text
-$ aman --role "BCA student" --focus threat-detection,security-tooling
-> I build defensive security tooling: ML phishing detection, scam/fraud
-  intelligence, and recon automation. Hands-on with TryHackMe red/blue labs.
+ █████╗ ███╗   ██╗██╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗ █████╗ ██████╗ ██████╗
+██╔══██╗████╗  ██║██║██║ ██╔╝██╔══██╗██╔══██╗██╔═══██╗██║    ██║██╔══██╗██╔══██╗██╔══██╗
+███████║██╔██╗ ██║██║█████╔╝ ███████║██████╔╝██║   ██║██║ █╗ ██║███████║██║  ██║██████╔╝
+██╔══██║██║╚██╗██║██║██╔═██╗ ██╔══██║██╔══██╗██║   ██║██║███╗██║██╔══██║██║  ██║██╔══██╗
+██║  ██║██║ ╚████║██║██║  ██╗██║  ██║██║  ██║╚██████╔╝╚███╔███╔╝██║  ██║██████╔╝██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═════╝ ╚═════╝
+                          D E F E N S I V E   S E C U R I T Y   T O O L I N G
 ```
+
+**`> I build defensive security tooling — ML phishing detection, scam/fraud intel, and recon automation. Hands-on with TryHackMe red/blue labs.`**
+
+</div>
 
 ---
 
@@ -61,13 +66,14 @@ $ aman --role "BCA student" --focus threat-detection,security-tooling
 ### `watch --training`
 
 ```text
-[active]  TryHackMe — red/blue team labs, ranked operator
+[active]   TryHackMe  — red/blue team labs, ranked operator  (@amandalal)
 [building] PhishGuard Enterprise — shipping recon + ML detection to GitHub
+[learning] reverse engineering · malware analysis · CTF tradecraft
 ```
 
 ---
 
 <p align="center">
-  <i>"I manipulate things to make them work the way I want."</i><br/>
+  <i>"I manipulate things to make them work the way I want."</i><br/><br/>
   <a href="mailto:amandalal1937@gmail.com"><b>📡 ping me — open to security internships & collaboration</b></a>
 </p>

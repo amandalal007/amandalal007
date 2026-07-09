@@ -1,24 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 420" font-family="'JetBrains Mono',Consolas,Monaco,ui-monospace,monospace">
   <rect width="920" height="420" fill="#0d1117"/>
   <rect width="920" height="420" fill="none" stroke="#21262d" stroke-width="1"/>
-
-  <!-- window chrome -->
   <rect x="0" y="0" width="920" height="34" fill="#161b22"/>
   <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
   <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
   <circle cx="62" cy="17" r="6" fill="#27c93f"/>
   <text x="460" y="22" fill="#8b949e" font-size="13" text-anchor="middle">aman@phishguard: ~/profile</text>
-
   <g font-size="16" letter-spacing="0.3">
-    <!-- whoami -->
     <text x="28" y="74" fill="#58a6ff" font-weight="bold">aman@phishguard</text>
     <text x="196" y="74" fill="#8b949e">:</text>
     <text x="208" y="74" fill="#3fb950">~</text>
     <text x="224" y="74" fill="#c9d1d9">$ whoami</text>
     <text x="48" y="100" fill="#3fb950" font-weight="bold">&gt; Aman Dalal</text>
     <text x="216" y="100" fill="#8b949e">cybersecurity engineer · threat-tool builder</text>
-
-    <!-- focus -->
     <text x="28" y="140" fill="#58a6ff" font-weight="bold">aman@phishguard</text>
     <text x="196" y="140" fill="#8b949e">:</text>
     <text x="208" y="140" fill="#3fb950">~</text>
@@ -29,23 +23,17 @@
     <text x="252" y="190" fill="#8b949e">red/blue team labs, ranked operator</text>
     <text x="48" y="214" fill="#3fb950" font-weight="bold">&gt; also ships full-stack</text>
     <text x="268" y="214" fill="#8b949e">Node.js · Java · web apps</text>
-
-    <!-- projects -->
     <text x="28" y="254" fill="#58a6ff" font-weight="bold">aman@phishguard</text>
     <text x="196" y="254" fill="#8b949e">:</text>
     <text x="208" y="254" fill="#3fb950">~</text>
     <text x="224" y="254" fill="#c9d1d9">$ ls projects/</text>
     <text x="48" y="280" fill="#c9d1d9">phishguard-enterprise/  ai-scam-shield/  pocketfy/  java-college/</text>
-
-    <!-- status -->
     <text x="28" y="320" fill="#58a6ff" font-weight="bold">aman@phishguard</text>
     <text x="196" y="320" fill="#8b949e">:</text>
     <text x="208" y="320" fill="#3fb950">~</text>
     <text x="224" y="320" fill="#c9d1d9">$ neofetch --status</text>
     <text x="48" y="346" fill="#3fb950" font-weight="bold">● OPEN TO SECURITY ROLES</text>
     <text x="300" y="346" fill="#8b949e">· location: India · links below</text>
-
-    <!-- cursor -->
     <rect x="48" y="362" width="9" height="17" fill="#3fb950"/>
   </g>
 </svg>

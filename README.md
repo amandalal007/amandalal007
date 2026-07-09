@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.svg" alt="Aman Dalal — cybersecurity engineer & threat-tool builder" width="100%" />
+  <img src="hero.svg" alt="Aman Dalal — cybersecurity engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -14,41 +14,30 @@
   <a href="https://tryhackme.com/p/amandalal"><img src="https://images.weserv.nl/?url=raw.githubusercontent.com/amandalal007/amandalal007/main/thm-avatar.gif&w=72&h=72&fit=cover&output=gif" alt="@amandalal on TryHackMe" /></a>
 </p>
 
-
 ---
 
 <div align="center">
 
-```text
- █████╗ ███╗   ██╗██╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗ █████╗ ██████╗ ██████╗
-██╔══██╗████╗  ██║██║██║ ██╔╝██╔══██╗██╔══██╗██╔═══██╗██║    ██║██╔══██╗██╔══██╗██╔══██╗
-███████║██╔██╗ ██║██║█████╔╝ ███████║██████╔╝██║   ██║██║ █╗ ██║███████║██║  ██║██████╔╝
-██╔══██║██║╚██╗██║██║██╔═██╗ ██╔══██║██╔══██╗██║   ██║██║███╗██║██╔══██║██║  ██║██╔══██╗
-██║  ██║██║ ╚████║██║██║  ██╗██║  ██║██║  ██║╚██████╔╝╚███╔███╔╝██║  ██║██████╔╝██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═════╝ ╚═════╝
-                          D E F E N S I V E   S E C U R I T Y   T O O L I N G
-```
-
-**`> I build defensive security tooling — ML phishing detection, scam/fraud intel, and recon automation. Hands-on with TryHackMe red/blue labs.`**
+**`> I build defensive security tooling — ML phishing detection, scam/fraud intelligence, and recon automation. Hands-on with TryHackMe red/blue labs, and I ship full-stack apps across the stack.`**
 
 </div>
 
 ---
 
-### `./ls --projects`
+<img src="https://raw.githubusercontent.com/amandalal007/amandalal007/main/divider.svg" width="100%" alt="" />
 
-Cybersecurity is my focus, but I build across the stack. Here's the arsenal:
+### `// projects`
 
-| Repository | Stack | What it does |
-|------------|-------|--------------|
-| [PhishGuard Enterprise](https://github.com/amandalal007/phishguard-enterprise) | Python · PyQt6 · scikit-learn | **🔒 Security** — ML phishing detection, VirusTotal, RDAP, 18 recon scanners, 0–100 risk score |
-| [AI Scam Shield](https://github.com/amandalal007/AI-Scam-Shield) | Python · JS · Web | **🔒 Security** — multi-modal scam/fraud detection: screenshots, messages, URLs, UPI |
-| [Pocketfy](https://github.com/amandalal007/full-stack-development) | Node.js · Express · MongoDB | **🌐 Full-stack** — music streaming web app: auth, playlists, search |
-| [Java College Projects](https://github.com/amandalal007/java-college-projects) | Java · JDBC · Servlets | **☕ Java** — OOP / DB connectivity coursework |
+| Repository | Stack | Focus |
+|------------|-------|-------|
+| [PhishGuard Enterprise](https://github.com/amandalal007/phishguard-enterprise) | Python · PyQt6 · scikit-learn | 🔒 ML phishing detection — VirusTotal, RDAP, 18 recon scanners, 0–100 risk score |
+| [AI Scam Shield](https://github.com/amandalal007/AI-Scam-Shield) | Python · JS · Web | 🔒 Multi-modal scam/fraud detection: screenshots, messages, URLs, UPI |
+| [Pocketfy](https://github.com/amandalal007/full-stack-development) | Node.js · Express · MongoDB | 🌐 Full-stack music streaming — auth, playlists, search |
+| [Java College Projects](https://github.com/amandalal007/java-college-projects) | Java · JDBC · Servlets | ☕ OOP / DB connectivity coursework |
 
----
+<img src="https://raw.githubusercontent.com/amandalal007/amandalal007/main/divider.svg" width="100%" alt="" />
 
-### `cat toolset.txt`
+### `// arsenal`
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -67,14 +56,14 @@ Cybersecurity is my focus, but I build across the stack. Here's the arsenal:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/amandalal007/amandalal007/main/divider.svg" width="100%" alt="" />
 
-### `watch --training`
+### `// status`
 
 ```text
-[active]   TryHackMe  — red/blue team labs, ranked operator  (@amandalal)
-[building] PhishGuard Enterprise — shipping recon + ML detection to GitHub
-[learning] reverse engineering · malware analysis · CTF tradecraft
+[active]   TryHackMe        — red/blue team labs, ranked operator  (@amandalal)
+[building] PhishGuard Ent.   — shipping recon + ML detection to GitHub
+[learning] RE · malware anal. · CTF tradecraft
 ```
 
 ---

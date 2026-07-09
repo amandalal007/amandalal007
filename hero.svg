@@ -24,7 +24,6 @@
   <rect x="1" y="1" width="898" height="598" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
   <rect x="1" y="1" width="5" height="598" rx="2" fill="url(#accent)"/>
 
-  <!-- title bar -->
   <rect x="0" y="0" width="900" height="34" rx="12" fill="#11161f"/>
   <rect x="0" y="18" width="900" height="16" fill="#11161f"/>
   <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
@@ -33,35 +32,75 @@
   <text x="450" y="22" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="0.5">aman@phishguard — ~/profile</text>
 
   <g font-size="16" letter-spacing="0.2">
-    <!-- whoami -->
-    <text x="34" y="72" fill="#58a6ff" font-weight="bold">aman@phishguard</text><text x="208" y="72" fill="#8b949e">:</text><text x="222" y="72" fill="#3fb950">~</text><text x="240" y="72" fill="#e6edf3">$ whoami</text>
-    <text x="58" y="98" fill="#3fb950" font-weight="bold">&gt; Aman Dalal</text>
-    <text x="58" y="120" fill="#8b949e">cybersecurity engineer &amp; threat-tool builder · BCA · India</text>
+    <!-- 1 whoami -->
+    <g opacity="0">
+      <text x="34" y="72" fill="#58a6ff" font-weight="bold">aman@phishguard</text><text x="208" y="72" fill="#8b949e">:</text><text x="222" y="72" fill="#3fb950">~</text><text x="240" y="72" fill="#e6edf3">$ whoami</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.3s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="58" y="98" fill="#3fb950" font-weight="bold">&gt; Aman Dalal</text>
+      <text x="58" y="120" fill="#8b949e">cybersecurity engineer &amp; threat-tool builder · BCA · India</text>
+      <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.3s" fill="freeze"/>
+    </g>
 
-    <!-- focus -->
-    <text x="34" y="156" fill="#58a6ff" font-weight="bold">aman@phishguard</text><text x="208" y="156" fill="#8b949e">:</text><text x="222" y="156" fill="#3fb950">~</text><text x="240" y="156" fill="#e6edf3">$ cat focus.txt</text>
-    <text x="58" y="182" fill="#3fb950" font-weight="bold">&gt; defensive security tooling</text>
-    <text x="58" y="204" fill="#8b949e">ML phishing detection · scam/fraud intel · recon automation</text>
-    <text x="58" y="226" fill="#3fb950" font-weight="bold">&gt; hands-on TryHackMe</text>
-    <text x="58" y="248" fill="#8b949e">red/blue team labs — ranked operator</text>
-    <text x="58" y="270" fill="#3fb950" font-weight="bold">&gt; also builds full-stack</text>
-    <text x="58" y="292" fill="#8b949e">Node.js · Java · web apps</text>
+    <!-- 2 focus -->
+    <g opacity="0">
+      <text x="34" y="156" fill="#58a6ff" font-weight="bold">aman@phishguard</text><text x="208" y="156" fill="#8b949e">:</text><text x="222" y="156" fill="#3fb950">~</text><text x="240" y="156" fill="#e6edf3">$ cat focus.txt</text>
+      <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.3s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="58" y="182" fill="#3fb950" font-weight="bold">&gt; defensive security tooling</text>
+      <text x="58" y="204" fill="#8b949e">ML phishing detection · scam/fraud intel · recon automation</text>
+      <text x="58" y="226" fill="#3fb950" font-weight="bold">&gt; hands-on TryHackMe</text>
+      <text x="58" y="248" fill="#8b949e">red/blue team labs — ranked operator</text>
+      <text x="58" y="270" fill="#3fb950" font-weight="bold">&gt; also builds full-stack</text>
+      <text x="58" y="292" fill="#8b949e">Node.js · Java · web apps</text>
+      <animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.3s" fill="freeze"/>
+    </g>
 
-    <!-- projects -->
-    <text x="34" y="328" fill="#58a6ff" font-weight="bold">aman@phishguard</text><text x="208" y="328" fill="#8b949e">:</text><text x="222" y="328" fill="#3fb950">~</text><text x="240" y="328" fill="#e6edf3">$ ls projects/</text>
-    <text x="58" y="354" fill="#e6edf3">phishguard-enterprise/  <tspan fill="#3fb950">[🔒]</tspan> ML phishing detection</text>
-    <text x="58" y="376" fill="#e6edf3">ai-scam-shield/         <tspan fill="#3fb950">[🔒]</tspan> scam/fraud detection</text>
-    <text x="58" y="398" fill="#e6edf3">pocketfy/               <tspan fill="#58a6ff">[🌐]</tspan> full-stack music app</text>
-    <text x="58" y="420" fill="#e6edf3">java-college-projects/ <tspan fill="#e3b341">[☕]</tspan> OOP / DB coursework</text>
+    <!-- 3 projects -->
+    <g opacity="0">
+      <text x="34" y="328" fill="#58a6ff" font-weight="bold">aman@phishguard</text><text x="208" y="328" fill="#8b949e">:</text><text x="222" y="328" fill="#3fb950">~</text><text x="240" y="328" fill="#e6edf3">$ ls projects/</text>
+      <animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.3s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="58" y="354" fill="#e6edf3">phishguard-enterprise/   <tspan fill="#3fb950">[sec]</tspan> ML phishing detection</text>
+      <text x="58" y="376" fill="#e6edf3">ai-scam-shield/          <tspan fill="#3fb950">[sec]</tspan> scam/fraud detection</text>
+      <text x="58" y="398" fill="#e6edf3">pocketfy/                <tspan fill="#58a6ff">[web]</tspan> full-stack music app</text>
+      <text x="58" y="420" fill="#e6edf3">java-college-projects/  <tspan fill="#e3b341">[java]</tspan> OOP / DB coursework</text>
+      <animate attributeName="opacity" from="0" to="1" begin="4.1s" dur="0.3s" fill="freeze"/>
+    </g>
 
-    <!-- toolset -->
-    <text x="34" y="456" fill="#58a6ff" font-weight="bold">aman@phishguard</text><text x="208" y="456" fill="#8b949e">:</text><text x="222" y="456" fill="#3fb950">~</text><text x="240" y="456" fill="#e6edf3">$ cat toolset.txt</text>
-    <text x="58" y="482" fill="#8b949e">Python · PyQt6 · scikit-learn · VirusTotal · RDAP · Shodan · SQLmap · nmap</text>
-    <text x="58" y="504" fill="#8b949e">Java · JavaScript · Node.js · Git · Linux</text>
+    <!-- 4 toolset -->
+    <g opacity="0">
+      <text x="34" y="456" fill="#58a6ff" font-weight="bold">aman@phishguard</text><text x="208" y="456" fill="#8b949e">:</text><text x="222" y="456" fill="#3fb950">~</text><text x="240" y="456" fill="#e6edf3">$ cat toolset.txt</text>
+      <animate attributeName="opacity" from="0" to="1" begin="4.9s" dur="0.3s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="58" y="482" fill="#8b949e">Python · PyQt6 · scikit-learn · VirusTotal · RDAP · Shodan · SQLmap · nmap</text>
+      <text x="58" y="504" fill="#8b949e">Java · JavaScript · Node.js · Git · Linux</text>
+      <animate attributeName="opacity" from="0" to="1" begin="5.7s" dur="0.3s" fill="freeze"/>
+    </g>
 
-    <!-- training + links -->
-    <text x="34" y="540" fill="#58a6ff" font-weight="bold">aman@phishguard</text><text x="208" y="540" fill="#8b949e">:</text><text x="222" y="540" fill="#3fb950">~</text><text x="240" y="540" fill="#e6edf3">$ watch --training</text>
-    <text x="58" y="566" fill="#8b949e">[active] TryHackMe · [building] PhishGuard · [learning] RE · malware · CTF</text>
-    <text x="58" y="588" fill="#8b949e">links: github.com/amandalal007 · tryhackme.com/p/amandalal · amandalal1937@gmail.com</text>
+    <!-- 5 training + links -->
+    <g opacity="0">
+      <text x="34" y="540" fill="#58a6ff" font-weight="bold">aman@phishguard</text><text x="208" y="540" fill="#8b949e">:</text><text x="222" y="540" fill="#3fb950">~</text><text x="240" y="540" fill="#e6edf3">$ watch --training</text>
+      <animate attributeName="opacity" from="0" to="1" begin="6.5s" dur="0.3s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="58" y="566" fill="#8b949e">[active] TryHackMe · [building] PhishGuard · [learning] RE · malware · CTF</text>
+      <text x="58" y="588" fill="#8b949e">links: github.com/amandalal007 · tryhackme.com/p/amandalal · amandalal1937@gmail.com</text>
+      <animate attributeName="opacity" from="0" to="1" begin="7.3s" dur="0.3s" fill="freeze"/>
+    </g>
+
+    <!-- moving cursor: blinks at each prompt line in sequence -->
+    <g fill="#3fb950">
+      <rect x="356" y="62" width="9" height="17"><animate attributeName="opacity" values="0;1;0;1;0" keyTimes="0;0.1;0.3;0.5;0.6" begin="0.4s" dur="1.4s" fill="freeze"/></rect>
+      <rect x="356" y="146" width="9" height="17"><animate attributeName="opacity" values="0;0;1;0;1;0" keyTimes="0;0.45;0.55;0.7;0.85;0.9" begin="1.8s" dur="1.5s" fill="freeze"/></rect>
+      <rect x="368" y="318" width="9" height="17"><animate attributeName="opacity" values="0;0;1;0;1;0" keyTimes="0;0.5;0.6;0.75;0.88;0.95" begin="3.3s" dur="1.6s" fill="freeze"/></rect>
+      <rect x="404" y="446" width="9" height="17"><animate attributeName="opacity" values="0;0;1;0;1;0" keyTimes="0;0.55;0.65;0.8;0.92;0.97" begin="4.9s" dur="1.6s" fill="freeze"/></rect>
+      <rect x="416" y="530" width="9" height="17"><animate attributeName="opacity" values="0;0;1;0;1;0" keyTimes="0;0.6;0.7;0.85;0.95;1" begin="6.5s" dur="1.6s" fill="freeze"/></rect>
+      <rect x="58" y="574" width="9" height="17"><animate attributeName="opacity" values="0;1;0;1" begin="7.6s" dur="1s" repeatCount="indefinite"/></rect>
+    </g>
   </g>
 </svg>

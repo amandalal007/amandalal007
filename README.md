@@ -6,11 +6,14 @@
   <a href="mailto:amandalal1937@gmail.com"><img src="https://img.shields.io/badge/EMAIL-amandalal1937@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/amandalal007"><img src="https://img.shields.io/badge/GITHUB-amandalal007-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/amandalal"><img src="https://img.shields.io/badge/TryHackMe-amandalal-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/amandalal"><img src="thm-rank.svg" alt="TryHackMe ranked operator" /></a>
-  <a href="https://tryhackme.com/p/amandalal"><img src="https://images.weserv.nl/?url=raw.githubusercontent.com/amandalal007/amandalal007/main/thm-avatar.gif&w=80&h=80&fit=cover&output=gif" alt="@amandalal THM" /></a>
   <img src="https://img.shields.io/badge/LOCATION-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20SECURITY%20ROLES-brightgreen?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/amandalal"><img src="https://images.weserv.nl/?url=raw.githubusercontent.com/amandalal007/amandalal007/main/thm-avatar.gif&w=72&h=72&fit=cover&output=gif" alt="@amandalal on TryHackMe" /></a>
+</p>
+
 
 ---
 

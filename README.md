@@ -6,7 +6,8 @@
   <a href="mailto:amandalal1937@gmail.com"><img src="https://img.shields.io/badge/EMAIL-amandalal1937@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/amandalal007"><img src="https://img.shields.io/badge/GITHUB-amandalal007-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/amandalal"><img src="https://img.shields.io/badge/TryHackMe-amandalal-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://images.weserv.nl/?url=raw.githubusercontent.com/amandalal007/amandalal007/main/thm-avatar.gif"><img src="https://images.weserv.nl/?url=raw.githubusercontent.com/amandalal007/amandalal007/main/thm-avatar.gif" alt="@amandalal THM" width="40" height="40" /></a>
+  <a href="https://tryhackme.com/p/amandalal"><img src="thm-rank.svg" alt="TryHackMe ranked operator" /></a>
+  <a href="https://tryhackme.com/p/amandalal"><img src="https://images.weserv.nl/?url=raw.githubusercontent.com/amandalal007/amandalal007/main/thm-avatar.gif&w=80&h=80&fit=cover&output=gif" alt="@amandalal THM" /></a>
   <img src="https://img.shields.io/badge/LOCATION-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20SECURITY%20ROLES-brightgreen?style=for-the-badge" />
 </p>
@@ -31,14 +32,16 @@
 
 ---
 
-### `./ls --projects --security`
+### `./ls --projects`
 
-| Repository | Stack | Security focus |
-|------------|-------|---------------|
-| [PhishGuard Enterprise](https://github.com/amandalal007/phishguard-enterprise) | Python · PyQt6 · scikit-learn | ML phishing detection — VirusTotal, RDAP, 18 recon scanners, 0–100 risk score |
-| [AI Scam Shield](https://github.com/amandalal007/AI-Scam-Shield) | Python · JS · Web | Multi-modal scam/fraud detection: screenshots, messages, URLs, UPI |
-| [Pocketfy](https://github.com/amandalal007/full-stack-development) | Node.js · Express · MongoDB | Full-stack web app — auth, sessions, secure data handling |
-| [Java College Projects](https://github.com/amandalal007/java-college-projects) | Java · JDBC · Servlets | OOP / DB connectivity coursework |
+Cybersecurity is my focus, but I build across the stack. Here's the arsenal:
+
+| Repository | Stack | What it does |
+|------------|-------|--------------|
+| [PhishGuard Enterprise](https://github.com/amandalal007/phishguard-enterprise) | Python · PyQt6 · scikit-learn | **🔒 Security** — ML phishing detection, VirusTotal, RDAP, 18 recon scanners, 0–100 risk score |
+| [AI Scam Shield](https://github.com/amandalal007/AI-Scam-Shield) | Python · JS · Web | **🔒 Security** — multi-modal scam/fraud detection: screenshots, messages, URLs, UPI |
+| [Pocketfy](https://github.com/amandalal007/full-stack-development) | Node.js · Express · MongoDB | **🌐 Full-stack** — music streaming web app: auth, playlists, search |
+| [Java College Projects](https://github.com/amandalal007/java-college-projects) | Java · JDBC · Servlets | **☕ Java** — OOP / DB connectivity coursework |
 
 ---
 

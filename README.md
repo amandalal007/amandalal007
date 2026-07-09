@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**`> I build defensive security tooling — ML phishing detection, scam/fraud intel, and recon automation. Hands-on with TryHackMe red/blue labs.`**
+**`> I build defensive security tooling — ML phishing detection, scam/fraud intel, and live AI assistant apps. Hands-on with TryHackMe red/blue labs.`**
 
 </div>
 
@@ -26,8 +26,8 @@
 |------------|-------|---------------|
 | [PhishGuard Enterprise](https://github.com/amandalal007/phishguard-enterprise) `// flagship` | Python · PyQt6 · scikit-learn | ML phishing detection — VirusTotal, RDAP & 18 recon scanners, 0–100 risk score |
 | [AI Scam Shield](https://github.com/amandalal007/AI-Scam-Shield) | Python · JS · Web | Multi-modal scam/fraud detection: screenshots, messages, URLs & UPI |
+| [Meeting Assistant](https://github.com/amandalal007/meeting-assistant) `// new` | Python · PyQt6 · Whisper · Gemini | Privacy-first live AI notes overlay — local VAD + transcription, nothing written to disk |
 | [Pocketfy](https://github.com/amandalal007/full-stack-development) | Node.js · Express · MongoDB | Full-stack music app — auth, playlists, search |
-| [Java College Projects](https://github.com/amandalal007/java-college-projects) | Java · JDBC · Servlets | OOP / DB connectivity coursework |
 
 ---
 
@@ -36,6 +36,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/VirusTotal-3949AB?style=for-the-badge&logo=virustotal&logoColor=white" />
   <img src="https://img.shields.io/badge/RDAP/DNS-007ACC?style=for-the-badge&logo=cloudflare&logoColor=white" />
@@ -57,6 +59,7 @@
 ```text
 [active]   TryHackMe  — red/blue team labs, ranked operator  (@amandalal)
 [building] PhishGuard Enterprise — shipping recon + ML detection to GitHub
+[shipped]  Meeting Assistant — live AI notes overlay (Whisper + Gemini)
 [learning] reverse engineering · malware analysis · CTF tradecraft
 ```
 

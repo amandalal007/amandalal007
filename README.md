@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f8f4e,100:3d7aed&height=160&section=header&text=Aman%20Dalal&fontSize=40&fontAlignY=38&desc=Cybersecurity%20Engineer%20%C2%B7%20Threat-Tool%20Builder&descAlignY=58&animation=twinkling" alt="Aman Dalal" />
+  <img src="hero.svg" alt="Aman Dalal — cybersecurity engineer & threat-tool builder" width="100%" />
 </p>
 
 <p align="center">
@@ -10,25 +10,28 @@
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20SECURITY%20ROLES-brightgreen?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandalal007&show_icons=true&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalal007&layout=compact&theme=github_dark&hide_title=true" height="160" />
-</p>
+---
+
+<div align="center">
+
+**`> I build defensive security tooling — ML phishing detection, scam/fraud intel, and recon automation. Hands-on with TryHackMe red/blue labs.`**
+
+</div>
 
 ---
 
-### 🔐 Projects
+### `./ls --projects --security`
 
 | Repository | Stack | Security focus |
 |------------|-------|---------------|
 | [PhishGuard Enterprise](https://github.com/amandalal007/phishguard-enterprise) | Python · PyQt6 · scikit-learn | ML phishing detection — VirusTotal, RDAP, 18 recon scanners, 0–100 risk score |
 | [AI Scam Shield](https://github.com/amandalal007/AI-Scam-Shield) | Python · JS · Web | Multi-modal scam/fraud detection: screenshots, messages, URLs, UPI |
-| [Pocketfy](https://github.com/amandalal007/full-stack-development) | Node.js · Express · MongoDB | Full-stack web app — auth, playlists, secure data handling |
+| [Pocketfy](https://github.com/amandalal007/full-stack-development) | Node.js · Express · MongoDB | Full-stack web app — auth, sessions, secure data handling |
 | [Java College Projects](https://github.com/amandalal007/java-college-projects) | Java · JDBC · Servlets | OOP / DB connectivity coursework |
 
 ---
 
-### 🛠 Tech Stack
+### `cat toolset.txt`
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -49,7 +52,7 @@
 
 ---
 
-### 📡 Currently
+### `watch --training`
 
 ```text
 [active]   TryHackMe  — red/blue team labs, ranked operator  (@amandalal)

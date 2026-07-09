@@ -5,8 +5,13 @@
 <p align="center">
   <a href="mailto:amandalal1937@gmail.com"><img src="https://img.shields.io/badge/EMAIL-amandalal1937@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/amandalal007"><img src="https://img.shields.io/badge/GITHUB-amandalal007-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/amandalal"><img src="https://img.shields.io/badge/TryHackMe-amandalal-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/LOCATION-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20SECURITY%20ROLES-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://tryhackme.com/badge/amandalal" alt="TryHackMe Badge" />
 </p>
 
 ---
@@ -16,7 +21,7 @@
 ```text
 $ aman --role "BCA student" --focus threat-detection,security-tooling
 > I build defensive security tooling: ML phishing detection, scam/fraud
-  intelligence, and recon automation. Data → model → interface → ship.
+  intelligence, and recon automation. Hands-on with TryHackMe red/blue labs.
 ```
 
 ---
@@ -43,12 +48,22 @@ $ aman --role "BCA student" --focus threat-detection,security-tooling
   <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLmap-E64A19?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/nmap-005C5C?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+---
+
+### `watch --training`
+
+```text
+[active]  TryHackMe — red/blue team labs, ranked operator
+[building] PhishGuard Enterprise — shipping recon + ML detection to GitHub
+```
 
 ---
 

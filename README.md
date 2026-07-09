@@ -24,9 +24,9 @@
 
 | Repository | Stack | Security focus |
 |------------|-------|---------------|
-| [PhishGuard Enterprise](https://github.com/amandalal007/phishguard-enterprise) | Python · PyQt6 · scikit-learn | ML phishing detection — VirusTotal, RDAP, 18 recon scanners, 0–100 risk score |
-| [AI Scam Shield](https://github.com/amandalal007/AI-Scam-Shield) | Python · JS · Web | Multi-modal scam/fraud detection: screenshots, messages, URLs, UPI |
-| [Pocketfy](https://github.com/amandalal007/full-stack-development) | Node.js · Express · MongoDB | Full-stack web app — auth, sessions, secure data handling |
+| [PhishGuard Enterprise](https://github.com/amandalal007/phishguard-enterprise) `// flagship` | Python · PyQt6 · scikit-learn | ML phishing detection — VirusTotal, RDAP & 18 recon scanners, 0–100 risk score |
+| [AI Scam Shield](https://github.com/amandalal007/AI-Scam-Shield) | Python · JS · Web | Multi-modal scam/fraud detection: screenshots, messages, URLs & UPI |
+| [Pocketfy](https://github.com/amandalal007/full-stack-development) | Node.js · Express · MongoDB | Full-stack music app — auth, playlists, search |
 | [Java College Projects](https://github.com/amandalal007/java-college-projects) | Java · JDBC · Servlets | OOP / DB connectivity coursework |
 
 ---
